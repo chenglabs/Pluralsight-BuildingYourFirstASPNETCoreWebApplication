@@ -1,5 +1,4 @@
-# Pluralsight-BuildingYourFirstASPNETCoreWebApplication
-Pluralsight - Building Your First ASP.NET Core Web Application
+# Pluralsight - Building Your First ASP.NET Core Web Application
 
 Changes to original code from the course
 
