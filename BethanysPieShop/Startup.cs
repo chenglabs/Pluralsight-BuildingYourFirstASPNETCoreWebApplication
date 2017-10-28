@@ -99,8 +99,9 @@ namespace BethanysPieShop
             {
                 routes.MapRoute(
                     name: "categoryfilter",
-                    template: "Pie/{action}/{category?}",
+                    template: "Pie/List/{category?}",
                     defaults: new { Controller = "Pie", action = "List" });
+
 
                 routes.MapRoute(
                     name: "default",

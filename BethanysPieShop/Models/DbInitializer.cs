@@ -34,11 +34,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/applepie.jpg",
+                            ImageUrl = "/Images/applepie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = true,
                             ImageThumbnailUrl =
-                                "Images/applepiesmall.jpg",
+                                "/Images/applepiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -50,11 +50,11 @@ namespace BethanysPieShop.Models
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Cheese cakes"],
                             ImageUrl =
-                                "Images/blueberrycheesecake.jpg",
+                                "/Images/blueberrycheesecake.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/blueberrycheesecakesmall.jpg",
+                                "/Images/blueberrycheesecakesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -65,11 +65,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Cheese cakes"],
-                            ImageUrl = "Images/cheesecake.jpg",
+                            ImageUrl = "/Images/cheesecake.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/cheesecakesmall.jpg",
+                                "/Images/cheesecakesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -80,11 +80,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/cherrypie.jpg",
+                            ImageUrl = "/Images/cherrypie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/cherrypiesmall.jpg",
+                                "/Images/cherrypiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -96,11 +96,11 @@ namespace BethanysPieShop.Models
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Seasonal pies"],
                             ImageUrl =
-                                "Images/christmasapplepie.jpg",
+                                "/Images/christmasapplepie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/christmasapplepiesmall.jpg",
+                                "/Images/christmasapplepiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -111,11 +111,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Seasonal pies"],
-                            ImageUrl = "Images/cranberrypie.jpg",
+                            ImageUrl = "/Images/cranberrypie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/cranberrypiesmall.jpg",
+                                "/Images/cranberrypiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -126,11 +126,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/peachpie.jpg",
+                            ImageUrl = "/Images/peachpie.jpg",
                             InStock = false,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/peachpiesmall.jpg",
+                                "/Images/peachpiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -141,11 +141,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Seasonal pies"],
-                            ImageUrl = "Images/pumpkinpie.jpg",
+                            ImageUrl = "/Images/pumpkinpie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = true,
                             ImageThumbnailUrl =
-                                "Images/pumpkinpiesmall.jpg",
+                                "/Images/pumpkinpiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -156,11 +156,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/rhubarbpie.jpg",
+                            ImageUrl = "/Images/rhubarbpie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = true,
                             ImageThumbnailUrl =
-                                "Images/rhubarbpiesmall.jpg",
+                                "/Images/rhubarbpiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -171,11 +171,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/strawberrypie.jpg",
+                            ImageUrl = "/Images/strawberrypie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/strawberrypiesmall.jpg",
+                                "/Images/strawberrypiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -187,11 +187,11 @@ namespace BethanysPieShop.Models
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Cheese cakes"],
                             ImageUrl =
-                                "Images/strawberrycheesecake.jpg",
+                                "/Images/strawberrycheesecake.jpg",
                             InStock = false,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/strawberrycheesecakesmall.jpg",
+                                "/Images/strawberrycheesecakesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -202,11 +202,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/applepie.jpg",
+                            ImageUrl = "/Images/applepie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = true,
                             ImageThumbnailUrl =
-                                "Images/applepiesmall.jpg",
+                                "/Images/applepiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -218,11 +218,11 @@ namespace BethanysPieShop.Models
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Cheese cakes"],
                             ImageUrl =
-                                "Images/blueberrycheesecake.jpg",
+                                "/Images/blueberrycheesecake.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/blueberrycheesecakesmall.jpg",
+                                "/Images/blueberrycheesecakesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -233,11 +233,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Cheese cakes"],
-                            ImageUrl = "Images/cheesecake.jpg",
+                            ImageUrl = "/Images/cheesecake.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/cheesecakesmall.jpg",
+                                "/Images/cheesecakesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -248,11 +248,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/cherrypie.jpg",
+                            ImageUrl = "/Images/cherrypie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/cherrypiesmall.jpg",
+                                "/Images/cherrypiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -264,11 +264,11 @@ namespace BethanysPieShop.Models
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Seasonal pies"],
                             ImageUrl =
-                                "Images/christmasapplepie.jpg",
+                                "/Images/christmasapplepie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/christmasapplepiesmall.jpg",
+                                "/Images/christmasapplepiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -279,11 +279,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Seasonal pies"],
-                            ImageUrl = "Images/cranberrypie.jpg",
+                            ImageUrl = "/Images/cranberrypie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/cranberrypiesmall.jpg",
+                                "/Images/cranberrypiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -294,11 +294,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/peachpie.jpg",
+                            ImageUrl = "/Images/peachpie.jpg",
                             InStock = false,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/peachpiesmall.jpg",
+                                "/Images/peachpiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -309,11 +309,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Seasonal pies"],
-                            ImageUrl = "Images/pumpkinpie.jpg",
+                            ImageUrl = "/Images/pumpkinpie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = true,
                             ImageThumbnailUrl =
-                                "Images/pumpkinpiesmall.jpg",
+                                "/Images/pumpkinpiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -324,11 +324,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/rhubarbpie.jpg",
+                            ImageUrl = "/Images/rhubarbpie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = true,
                             ImageThumbnailUrl =
-                                "Images/rhubarbpiesmall.jpg",
+                                "/Images/rhubarbpiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -339,11 +339,11 @@ namespace BethanysPieShop.Models
                             LongDescription =
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Fruit pies"],
-                            ImageUrl = "Images/strawberrypie.jpg",
+                            ImageUrl = "/Images/strawberrypie.jpg",
                             InStock = true,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/strawberrypiesmall.jpg",
+                                "/Images/strawberrypiesmall.jpg",
                             AllergyInformation = ""
                         },
                         new Pie
@@ -355,11 +355,11 @@ namespace BethanysPieShop.Models
                                 "Icing carrot cake jelly-o cheesecake. Sweet roll marzipan marshmallow toffee brownie brownie candy tootsie roll. Chocolate cake gingerbread tootsie roll oat cake pie chocolate bar cookie dragée brownie. Lollipop cotton candy cake bear claw oat cake. Dragée candy canes dessert tart. Marzipan dragée gummies lollipop jujubes chocolate bar candy canes. Icing gingerbread chupa chups cotton candy cookie sweet icing bonbon gummies. Gummies lollipop brownie biscuit danish chocolate cake. Danish powder cookie macaroon chocolate donut tart. Carrot cake dragée croissant lemon drops liquorice lemon drops cookie lollipop toffee. Carrot cake carrot cake liquorice sugar plum topping bonbon pie muffin jujubes. Jelly pastry wafer tart caramels bear claw. Tiramisu tart pie cake danish lemon drops. Brownie cupcake dragée gummies.",
                             Category = Categories["Cheese cakes"],
                             ImageUrl =
-                                "Images/strawberrycheesecake.jpg",
+                                "/Images/strawberrycheesecake.jpg",
                             InStock = false,
                             IsPieOfTheWeek = false,
                             ImageThumbnailUrl =
-                                "Images/strawberrycheesecakesmall.jpg",
+                                "/Images/strawberrycheesecakesmall.jpg",
                             AllergyInformation = ""
                         }
                     );
